@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olabanji-ebun&label=Profile%20views&color=0e75b6&style=flat" alt="olabanji-ebun" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kantedg8" target="blank"><img src="https://img.shields.io/twitter/follow/kantedg8?logo=twitter&style=for-the-badge" alt="kantedg8" /></a>
-<a href="https://discord.gg/https://discord.gg/tvJG7Y6Wj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tvJG7Y6Wj4" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kantedg8" target="blank"><img src="https://img.shields.io/twitter/follow/kantedg8?logo=twitter&style=for-the-badge" alt="kantedg8" /></a> </p>
 
 - 🔭 I’m currently working on **Weather App**
 
